@@ -1,0 +1,328 @@
+elemet.style{    
+}
+
+body{
+    background-image: url('background.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: wallpaper;
+    background-color: darkolivegreen;
+    border-style:double;
+}
+
+body{
+    display:block;
+    margin: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    font-family: monospace;
+    font-style: italic;
+    align-content: center;
+    border-color: darkolivegreen;
+    border-style: double;
+}
+
+h2{
+    background-color: plum;
+}
+
+h3{
+    background-color: khaki;
+    padding-left: 150pt;
+    padding-right: 150pt;
+}
+
+t1{
+    color: black;
+    background-color: palegoldenrod;
+}
+
+t2{
+    color: black;
+    background-color: palegoldenrod;
+}
+
+t3{
+    color: black;
+    background-color: palegoldenrod;
+}
+
+t4{
+    color: black;
+    background-color: palegoldenrod;
+}
+
+t5{
+    color: white;
+    background-color: palegoldenrod;
+    position: relative;
+    top: -180pt;
+    bottom: 1pt;
+    left: 230pt;
+    right: 5pt;
+    width: 400pt;
+    height: 250pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 600px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: left;  
+}
+
+t6{
+    color: white;
+    background-color: palegoldenrod;
+    position: relative;
+    top: -180pt;
+    bottom: 1pt;
+    left: 230pt;
+    right: 5pt;
+    width: 400pt;
+    height: 250pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 600px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: left;  
+}
+
+
+t7{
+    color: white;
+    background-color: palegoldenrod;
+    position: relative;
+    top: -180pt;
+    bottom: 1pt;
+    left: 230pt;
+    right: 5pt;
+    width: 400pt;
+    height: 250pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 600px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: left;  
+}
+
+t8{
+    color: white;
+    background-color: palegoldenrod;
+    position: relative;
+    top: -180pt;
+    bottom: 1pt;
+    left: 230pt;
+    right: 5pt;
+    width: 400pt;
+    height: 250pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 600px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: left;  
+}
+
+t9{
+    color: white;
+    background-color: palegoldenrod;
+    position: relative;
+    top: -180pt;
+    bottom: 1pt;
+    left: 230pt;
+    right: 5pt;
+    width: 400pt;
+    height: 250pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 600px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: left;  
+}
+
+j2{
+    color: white;
+    position: relative;
+    top: 71pt;
+    bottom: 70pt;
+    right: 200pt;
+    width: 150pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-left: 200px;
+    margin-right: 100px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    font-style: italic;
+    align-content: center;      
+}
+
+j3{
+    color: white;
+    position: relative;
+    top: 71pt;
+    bottom: 70pt;
+    right: 200pt;
+    width: 150pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-left: 200px;
+    margin-right: 100px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    font-style: italic;
+    align-content: center;      
+}
+
+j4{
+    color: white;
+    position: relative;
+    top: 71pt;
+    bottom: 70pt;
+    right: 200pt;
+    width: 150pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-left: 200px;
+    margin-right: 100px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    font-style: italic;
+    align-content: center;      
+}
+
+j5{
+    color: white;
+    position: relative;
+    top: 71pt;
+    bottom: 70pt;
+    right: 200pt;
+    width: 150pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-left: 200px;
+    margin-right: 100px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    font-style: italic;
+    align-content: center;      
+}
+
+j6{
+    color: white;
+    position: relative;
+    top: 71pt;
+    bottom: 70pt;
+    right: 200pt;
+    width: 150pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-left: 200px;
+    margin-right: 100px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    font-style: italic;
+    align-content: center;      
+}
+
+j7{
+    color: white;
+    position: relative;
+    top: 71pt;
+    bottom: 70pt;
+    right: 200pt;
+    width: 150pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-left: 200px;
+    margin-right: 100px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    font-style: italic;
+    align-content: center;      
+}
+
+j8{
+    color: white;
+    position: relative;
+    top: 71pt;
+    bottom: 70pt;
+    right: 200pt;
+    width: 150pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-left: 200px;
+    margin-right: 100px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    font-style: italic;
+    align-content: center;      
+}
+
+j9{
+    color: white;
+    position: relative;
+    top: 71pt;
+    bottom: 70pt;
+    right: 200pt;
+    width: 150pt;
+    border-radius: 5px;
+    background: navy;
+    box-shadow: 0 8px 32px royalblue;
+    backdrop-filter: blur(3px);
+    margin-left: 200px;
+    margin-right: 100px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: monospace;  
+}
